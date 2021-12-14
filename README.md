@@ -5,7 +5,7 @@
 
 I currently am a Principal Detection Engineer Working on the West Coast. I am thristy to grow my knowledge in the VX field as I aim to become more techincal on the end of building and developing tools that can be used.
 
-I have been in the realm of secuity since my days back in High School. I fell in love as a kid and continue to have the same drive and passion I had when I started. 
+I have been in the realm of secuity since I was a wee lad. I fell in love as a kid and continue to have the same drive and passion I had when I started. 
 
 My Twitter handle is: @maxwebrr
 This is my github that I finally am getting around to publishing on. 
